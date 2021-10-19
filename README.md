@@ -16,8 +16,8 @@ By combining a very _easy-to-use_ graphical user interface (GUI) with _state-of-
 
 #### Connect
 <p>
-  <a href="https://github.com/precise-simulation">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  <a href="https://www.precisesimulation.com#contact">
+    <img alt="Contact" src="https://img.shields.io/badge/-Contact-9cf?&style=for-the-badge&logo=GMail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/company/featool-multiphysics-page">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linked-In-blue?style=for-the-badge" />
