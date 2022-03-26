@@ -16,7 +16,7 @@ By combining a very _easy-to-use_ graphical user interface (GUI) with _state-of-
 
 #### Connect
 <p>
-  <a href="https://www.precisesimulation.com#contact">
+  <a href="https://www.featool.com/about#contact">
     <img alt="Contact" src="https://img.shields.io/badge/-Contact-9cf?&style=for-the-badge&logo=GMail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/company/featool-multiphysics-page">
