@@ -1,4 +1,4 @@
-# <i><b>Physics Simulation Made Easy!</b></i>
+<h1 align="center"><i><b>Physics Simulation Made Easy!</b></i></h1> 
 
 [<i><b>FEATool</b></i>](https://www.featool.com)&nbsp; is a fully integrated and _easy-to-use_ mathematical modeling PDE and CAE multi-physics simulation platform.
 
@@ -18,7 +18,7 @@ as well as mesh generators (_Gmsh_, _Netgen_, _Triangle_, _fTetWild_), and visua
 
 At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _extensible_ allowing experienced users to integrate custom equations and physics models into their own workflows, and also build stand-alone _simulation apps_ using the _Python_ and _Matlab_ scripting languages.
 
-## Get started with multiphysics simulation in minutes<i>!</i>
+<h2 align="center">Get started with multiphysics simulation in minutes<i>!</i></h2>
 <br>
 
 <p align="center">
