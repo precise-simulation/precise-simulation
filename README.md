@@ -1,7 +1,10 @@
+# <i><b>Physics Simulation Made Easy!</b></i>
+
 [<i><b>FEATool</b></i>](https://www.featool.com)&nbsp; is a fully integrated and _easy-to-use_ mathematical modeling PDE and CAE multi-physics simulation platform.
 
 <a href="https://www.featool.com">
-  <img src="https://github.com/precise-simulation/precise-simulation/blob/7990f467952f544cb992985bcb89b3ff06efc79b/featool-multiphysics-modeling-process-screenshots.png" align="right" width="30%"/>
+  <img src="https://github.com/precise-simulation/precise-simulation/blob/7990f467952f544cb992985bcb89b3ff06efc79b/featool-multiphysics-modeling-process-screenshots.png" align="right" width="30%"
+       title="Physics and CAE Simulation Made Easy!"/>
 </a>
 
 By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ FEA and CFD physics solvers such as
@@ -19,19 +22,19 @@ At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _e
 <br>
 
 <p align="center">
-  <a href="https://www.featool.com/download" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="FEATool Multiphysics Download" style="max-width:50%"></a>
+  <a href="https://www.featool.com/download" target="_blank"><img src="https://raw.githubusercontent.com/precise-simulation/featool-multiphysics/master/featool-multiphysics-download.png" alt="Download FEATool Multiphysics" title="Download FEATool Multiphysics" style="max-width:50%"></a>
 </p>
 
 
 #### Connect
 <p>
   <a href="https://www.featool.com/about#contact">
-    <img alt="Contact" src="https://img.shields.io/badge/-Contact-9cf?&style=for-the-badge&logo=GMail&logoColor=white" />
+    <img alt="Contact" src="https://img.shields.io/badge/-Contact-9cf?&style=for-the-badge&logo=GMail&logoColor=white" title="Contact Precise Simulation"/>
   </a>
   <a href="https://www.linkedin.com/company/featool-multiphysics-page">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Linked-In-blue?style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/Linked-In-blue?style=for-the-badge" title="Follow Precise Simulation on LinkedIn"/>
   </a>
   <a href="https://twitter.com/featool">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Follow Precise Simulation on Twitter"/>
   </a>
 </p>
