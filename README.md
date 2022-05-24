@@ -14,7 +14,7 @@ By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ gra
 - [redbKIT](https://redbkit.github.io/redbKIT)
 - [SU2 Code](https://www.featool.com/doc/su2.html)
 
-as well as mesh generators (_Gmsh_, _Netgen_, _TetWild_, _Triangle_), and postprocessing and 3D visualization backends (_ParaView_, _Plotly_, _VTK_), enables everyone to _start making multiphysics simulations right away_, without having to spend days or even weeks on learning, compiling, and configuring.
+as well as CAD geometry, mesh generators (_Gmsh_, _Netgen_, _TetWild_, _Triangle_), and postprocessing and 3D visualization backends (_ParaView_, _Plotly_, _VTK_), enables everyone to _start making multiphysics simulations right away_, without having to spend days or even weeks on learning, compiling, and configuring.
 
 At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _extensible_ allowing experienced users to integrate custom equations and physics models into their own workflows, and also build stand-alone _simulation apps_ using the _Python_ and _Matlab_ scripting languages.
 
