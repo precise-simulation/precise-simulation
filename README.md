@@ -7,7 +7,7 @@
        title="Physics and CAE Simulation Made Easy!"/>
 </a>
 
-By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ FEA and CFD physics solvers such as
+By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ finite element analysis (FEA) and fluid dynamics (CFD) physics solvers such as
 
 - [FEniCS](https://www.featool.com/tutorial/2017/06/16/python-multiphysics-and-fea-simulations-with-fenics-and-featool)
 - [OpenFOAM](https://www.featool.com/tutorial/2021/05/03/easy-openfoam-gui)
