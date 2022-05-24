@@ -1,12 +1,21 @@
-_Precise Simulation_ is developer of [_FEATool Multiphysics_](https://www.featool.com), a fully integrated and easy-to-use mathematical modeling and CAE physics simulation platform.
+[<i><b>FEATool</b></i>](https://www.featool.com)&nbsp; is a fully integrated and _easy-to-use_ mathematical modeling PDE and CAE multi-physics simulation platform.
 
 <a href="https://www.featool.com">
   <img src="https://github.com/precise-simulation/precise-simulation/blob/7990f467952f544cb992985bcb89b3ff06efc79b/featool-multiphysics-modeling-process-screenshots.png" align="right" width="30%"/>
 </a>
 
-By combining a very _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ FEA and CFD physics solvers and modeling tools such as FEniCS, Gmsh, OpenFOAM, ParaView, redbKIT, and SU2 enables anyone to use advanced solvers and simulation tools right away, which otherwise would take a days or even weeks to learn how to use. At the same time the FEATool software suite is fully programmable and extensible allowing experienced users to integrate physics models into their own workflows and build simulation apps using MATLAB and Python.
+By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ FEA and CFD physics solvers such as
 
-## Download and try FEATool Multiphysics<i>!</i>
+- [FEniCS](https://www.featool.com/tutorial/2017/06/16/python-multiphysics-and-fea-simulations-with-fenics-and-featool)
+- [OpenFOAM](https://www.featool.com/tutorial/2021/05/03/easy-openfoam-gui)
+- [redbKIT](https://redbkit.github.io/redbKIT)
+- [SU2 Code](https://www.featool.com/doc/su2.html)
+
+as well as mesh generators (_Gmsh_, _Netgen_, _Triangle_, _fTetWild_), and visualization backends (_ParaView_, _Plotly_, _VTK_), enables everyone to _start making multiphysics simulations right away_, without having to spend days or even weeks on learning, compiling, and configuring.
+
+At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _extensible_ allowing experienced users to integrate custom equations and physics models into their own workflows, and also build stand-alone _simulation apps_ using the _Python_ and _Matlab_ scripting languages.
+
+## Download and get started with multiphysics simulation in minutes<i>!</i>
 <br>
 
 <p align="center">
