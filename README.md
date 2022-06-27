@@ -11,7 +11,6 @@ By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ gra
 
 - [FEniCS](https://www.featool.com/tutorial/2017/06/16/python-multiphysics-and-fea-simulations-with-fenics-and-featool)
 - [OpenFOAM](https://www.featool.com/tutorial/2021/05/03/easy-openfoam-gui)
-- [redbKIT](https://redbkit.github.io/redbKIT)
 - [SU2 Code](https://www.featool.com/doc/su2.html)
 
 as well as CAD geometry, mesh generators (_Gmsh_, _Netgen_, _TetWild_, _Triangle_), and postprocessing and 3D visualization backends (_ParaView_, _Plotly_, _VTK_), enables everyone to _start making multiphysics simulations right away_, without having to spend days or even weeks on learning, compiling, and configuring.
