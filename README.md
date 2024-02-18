@@ -27,6 +27,9 @@ At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _e
 
 #### Connect
 <p>
+  <a href="https://www.featool.com">
+    <img alt="Homepage" src="https://img.shields.io/badge/Homepage-8AAB82?&style=for-the-badge" title="FEATool Multiphysics Homepage"/>
+  </a>
   <a href="https://www.featool.com/about#contact">
     <img alt="Contact" src="https://img.shields.io/badge/-Contact-9cf?&style=for-the-badge&logo=GMail&logoColor=white" title="Contact Precise Simulation"/>
   </a>
