@@ -33,7 +33,4 @@ At the same time the _FEATool_ simulation toolbox is _fully programmable_ and _e
   <a href="https://www.linkedin.com/company/featool-multiphysics-page">
     <img alt="LinkedIn" src="https://img.shields.io/badge/Linked-In-blue?style=for-the-badge" title="Follow Precise Simulation on LinkedIn"/>
   </a>
-  <a href="https://twitter.com/featool">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" title="Follow Precise Simulation on Twitter"/>
-  </a>
 </p>
