@@ -1,6 +1,6 @@
 <h1 align="center"><i><b>Physics Simulation Made Easy!</b></i></h1> 
 
-[<i><b>FEATool Multiphysics</b></i>](https://www.featool.com)&nbsp; is a fully integrated and _easy-to-use_ mathematical modeling PDE and CAE [multiphysics](https://www.featool.com/multiphysics) simulation platform.
+[<i><b>FEATool Multiphysics</b></i>](https://www.featool.com)&nbsp; is a fully integrated and _easy-to-use_ mathematical modeling, Partial Differential Equation (PDE), and Computer Aided Engineering (CAE) [multi-physics](https://www.featool.com/multiphysics) simulation platform.
 
 <a href="https://www.featool.com/showcase-models">
   <img src="https://github.com/precise-simulation/precise-simulation/blob/7990f467952f544cb992985bcb89b3ff06efc79b/featool-multiphysics-modeling-process-screenshots.png" align="right" width="30%"
