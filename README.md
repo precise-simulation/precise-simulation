@@ -9,8 +9,8 @@
 
 By combining and seamlessly integrating a very _intuitive_ and _easy-to-use_ graphical user interface (GUI) with _state-of-the-art_ finite element analysis (FEA) and fluid dynamics (CFD) physics solvers such as
 
-- [OpenFOAM](https://featool.com/Easy-to-Use-OpenFOAM-GUI/)
-- [FEniCS](https://featool.com/tutorial/2017/06/16/Python-Multiphysics-and-FEA-Simulations-with-FEniCS-and-FEATool/)
+- [OpenFOAM](https://www.featool.com/Easy-to-Use-OpenFOAM-GUI/)
+- [FEniCS](https://www.featool.com/tutorial/2017/06/16/Python-Multiphysics-and-FEA-Simulations-with-FEniCS-and-FEATool/)
 - [SU2 Code](https://www.featool.com/doc/su2.html)
 
 as well as CAD geometry, mesh generators (_Gmsh_, _Netgen_, _TetWild_, _Triangle_), and postprocessing and 3D visualization backends (_ParaView_, _Plotly_, _VTK_), enables everyone to _start making multiphysics simulations right away_, without having to spend days or even weeks on learning, compiling, and configuring.
